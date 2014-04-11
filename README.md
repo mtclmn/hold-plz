@@ -12,5 +12,6 @@ Also, a work in progress.
 <img src="img/loader3.gif" alt="loader3" width="100" height="100" />
 <img src="img/loader4.gif" alt="loader4" width="100" height="100" />
 <img src="img/loader4B.gif" alt="loader4B" width="100" height="100" />
+<img src="img/loader5.gif" alt="loader5" width="100" height="100" />
 
 ***
