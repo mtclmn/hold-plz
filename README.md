@@ -16,5 +16,6 @@ Also, a work in progress.
 <img src="img/loader6.gif" alt="loader6" />
 <img src="img/loader7.gif" alt="loader7" />
 <img src="img/loader8.gif" alt="loader8" />
+<img src="img/loader9.gif" alt="loader9" />
 
 ***
